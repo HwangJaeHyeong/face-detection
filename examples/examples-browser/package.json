@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "node server.js"
+    "start": "set PORT=3008 && node server.js"
   },
   "author": "justadudewhohacks",
   "license": "MIT",
